@@ -1,7 +1,6 @@
 """
 convert between Morse Code and Plain Text
 
-Version: 0.1
 Author: Joseph Chen
 """
 
